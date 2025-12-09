@@ -9,5 +9,3 @@ Real-time visualization: curves, control polygons, parametric points, radii of c
 Implement and compare the core algorithms: De Casteljau, Cox–de Boor (B-spline evaluation), knot insertion, degree elevation, and curve splitting.
 
 It can import/export common formats (such as JSON, SVG (2D), OBJ (dots and lines only) or IGES/STEP (for advanced users)).
-
-Final submissions: source code, executable demo, user manual, and experiment report (including algorithm complexity/numerical stability analysis and several use cases).
